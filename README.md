@@ -2,7 +2,7 @@
 
 <p>I'm a Computer Science graduate from the University of Auckland</p>
 
-<p>I'm having fun learning and building</p>
+<p>Currently working with LAMP at work and C at home</p>
 
 <p>You can find me on linkedin</p>
 <ul>
