@@ -1,8 +1,8 @@
 <p>Hi there! I'm @armand334 (Peymon Armand)</p>
 
-<p>I'm a Computer Science graduate from the University of Auckland</p>
+<p>I'm a CS graduate from the University of Auckland</p>
 
-<p>Currently interning at SELMA where I am wokring with the LAMP stack and object oriented programming using the symfony framework</p>
+<p>Currently interning at SELMA where I am working with the LAMP stack and object oriented programming using the symfony framework</p>
 
 <p>At home I am working with C and trying to go deeper in the fundementals of computing</p>
 
